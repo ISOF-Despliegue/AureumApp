@@ -33,3 +33,12 @@ app.post("/reseñas", (req, res) => {
     reseñas.push(nuevaReseña);
     res.status(201).json(nuevaReseña);
 });
+
+// Ver reseñas
+app.get("/reseñas", (req, res) => {
+    res.json(reseñas);
+});
+
+app.listen(PORT, () => {
+    console.log(`Servidor corriendo en http://localhost:${PORT}`);
+});
