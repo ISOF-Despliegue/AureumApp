@@ -1,14 +1,20 @@
 [
   {
     "id": 1,
-    "nombreJuego": "Minecraft",
-    "calificacion": 10,
-    "comentario": "God juego"
+    "nombreJuego": "Hytale",
+    "calificacion": 7,
+    "comentario": "Lo mismo que Minecraft pero mas feo."
   },
   {
     "id": 2,
     "nombreJuego": "Brawl Stars",
     "calificacion": 9,
     "comentario": "Divertido pero P2W"
+  },
+  {
+    "id": 3,
+    "nombreJuego": "Minecraft",
+    "calificacion": 10,
+    "comentario": "God juego"
   }
 ]
