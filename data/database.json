@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombreJuego": "Minecraft",
+    "calificacion": 10,
+    "comentario": "God juego"
+  },
+  {
+    "id": 2,
+    "nombreJuego": "Brawl Stars",
+    "calificacion": 9,
+    "comentario": "Divertido pero P2W"
+  }
+]
