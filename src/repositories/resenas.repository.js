@@ -2,7 +2,7 @@ const fs = require('fs/promises');
 const path = require('path');
 
 const databaseDir = path.join(__dirname, '../../data');
-const databasePath = path.join(databaseDir, 'database.json');
+const databasePath = path.join(databaseDir, 'dbResenas.json');
 
 const leerResenas = async () => {
     try {
