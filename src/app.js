@@ -1,5 +1,6 @@
 const express = require('express');
 const resenasRoutes = require('./routes/resenas.routes');
+const usuariosRoutes = require('./routes/usuarios.routes');
 
 const app = express();
 
@@ -13,5 +14,6 @@ app.get('/health', (req, res) => {
 });
 
 app.use('/resenas', resenasRoutes);
+app.use('/usuarios', usuariosRoutes);
 
 module.exports = app;

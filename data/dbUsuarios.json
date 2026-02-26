@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Abraham Cano",
+    "contraseña": "contraseña123",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Luis Hernández",
+    "contraseña": "luish2005",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Margarita Oliveros",
+    "contraseña": "contraseñaSegura",
+    "activo": true
+  }
+]
