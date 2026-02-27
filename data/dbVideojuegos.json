@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Terraria Remastered",
+    "genero": "Sandbox",
+    "plataforma": "PC",
+    "anio": 2026
+  },
+  {
+    "id": 2,
+    "nombre": "Brawl Stars",
+    "genero": "MOBA",
+    "plataforma": "Mobile",
+    "anio": 2018
+  },
+  {
+    "id": 3,
+    "nombre": "Minecraft",
+    "genero": "Sandbox",
+    "plataforma": "Multiplataforma",
+    "anio": 2011
+  },
+  {
+    "id": 4,
+    "nombre": "Terraria",
+    "genero": "Sandbox",
+    "plataforma": "PC",
+    "anio": 2011
+  }
+]

@@ -16,5 +16,11 @@
     "nombreJuego": "Minecraft",
     "calificacion": 10,
     "comentario": "God juego"
+  },
+  {
+    "id": 4,
+    "nombreJuego": "Terraria",
+    "calificacion": 9,
+    "comentario": "Muy buen juego"
   }
 ]
