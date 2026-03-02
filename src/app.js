@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const resenasRoutes = require('./routes/resenas.routes');
 const usuariosRoutes = require('./routes/usuarios.routes');
 const videojuegosRoutes = require('./routes/videojuegos.routes');

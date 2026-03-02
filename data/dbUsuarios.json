@@ -16,5 +16,11 @@
     "nombre": "Margarita Oliveros",
     "contraseña": "contraseñaSegura",
     "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Abraham Cano",
+    "contraseña": "1235",
+    "activo": true
   }
 ]
