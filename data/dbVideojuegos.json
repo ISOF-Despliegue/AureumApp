@@ -14,17 +14,24 @@
     "anio": 2018
   },
   {
-    "id": 3,
-    "nombre": "Minecraft",
-    "genero": "Sandbox",
-    "plataforma": "Multiplataforma",
+    "id": 5,
+    "nombre": "Warzone",
+    "genero": "Disparos",
+    "plataforma": "PC",
     "anio": 2011
   },
   {
-    "id": 4,
-    "nombre": "Terraria",
-    "genero": "Sandbox",
+    "id": 6,
+    "nombre": "RODRIGO IVAN",
+    "genero": "Disparos",
     "plataforma": "PC",
-    "anio": 2011
+    "anio": 2003
+  },
+  {
+    "id": 7,
+    "nombre": "PEPE PECA",
+    "genero": "Disparos",
+    "plataforma": "PC",
+    "anio": 2003
   }
 ]
