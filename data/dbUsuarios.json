@@ -6,12 +6,6 @@
     "activo": true
   },
   {
-    "id": 2,
-    "nombre": "Luis Hernández",
-    "contraseña": "luish2005",
-    "activo": true
-  },
-  {
     "id": 3,
     "nombre": "Margarita Oliveros",
     "contraseña": "contraseñaSegura",
@@ -21,6 +15,18 @@
     "id": 4,
     "nombre": "Abraham Cano",
     "contraseña": "1235",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Rodolfo Martinez",
+    "contraseña": "12345",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Sofía Vidal",
+    "contraseña": "12345",
     "activo": true
   }
 ]
