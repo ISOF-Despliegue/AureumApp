@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Terraria Remastered",
+    "nombre": "Terraria Solamente",
     "genero": "Sandbox",
     "plataforma": "PC",
     "anio": 2026
@@ -28,9 +28,9 @@
     "anio": 2003
   },
   {
-    "id": 7,
-    "nombre": "PEPE PECA",
-    "genero": "Disparos",
+    "id": 8,
+    "nombre": "Juego de Prueba Post",
+    "genero": "Postman",
     "plataforma": "PC",
     "anio": 2003
   }
